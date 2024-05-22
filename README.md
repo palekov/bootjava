@@ -1,5 +1,5 @@
 ### Создание Java приложения на востребованном стеке: 
-- Spring Boot 3.x;
+- Spring Boot;
 - Spring Data Rest/HATEOAS;
 - Lombok;
 - JPA, H2;
